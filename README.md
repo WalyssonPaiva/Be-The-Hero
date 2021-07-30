@@ -6,7 +6,7 @@
 
   <img alt="Repo size" src="https://img.shields.io/github/repo-size/WalyssonPaiva/Be-The-Hero">
 	
-  <a href="https://www.linkedin.com/in/walyssonpaiva">
+  <a target="_blank" href="https://www.linkedin.com/in/walyssonpaiva">
     <img alt="Made by WalyssonPaiva" src="https://img.shields.io/badge/Made%20By-WalyssonPaiva-brightgreen">
   </a>
 
